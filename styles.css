@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    border-color: red;
+    background-color: black;
+    color: white;
+}
+
+.guitar{
+    color: red;
+    background-color: black;
+}
+
+.keyboard{
+    color: green;
+    background-color: black;
+}
+
+.trumpet{
+    color: gold;
+    background-color: black;
+}
+
+img{
+    width: 200px;
+}
+
+body{
+    background-image:url(IMG_0168.JPG);
+    background-size: cover;
+}
