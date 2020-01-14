@@ -1,3 +1,6 @@
 body {
     background: red;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 5px;
 }
