@@ -1,36 +1,45 @@
-h1{
-    color: blue;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: bold;
+.display-4{
+    color: white
 }
 
-h2{
-    text-align: center;
-    border-color: red;
-    background-color: black;
-    color: white;
+.lead{
+    color: white
 }
 
-.guitar{
-    color: red;
-    background-color: black;
-}
-
-.keyboard{
-    color: green;
-    background-color: black;
-}
-
-.trumpet{
-    color: gold;
-    background-color: black;
-}
-
-img{
-    width: 200px;
+.img-fluid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
 }
 
 body{
-    background-image:url(IMG_0168.JPG);
+    background-color: lightcyan;
+    text-align: center;
+}
+
+.jumbotron{
+    background-image:url(IMG_2268.JPG);
     background-size: cover;
+    text-align: left;
+}
+
+.container-md{
+    text-align: left;
+}
+
+.about-img1{
+    width: 200px;
+}
+
+.about-img2{
+    width: 350px;
+}
+
+.about-img3{
+    width: 350px;
+}
+
+.containerHome{
+    text-align: center;
 }
